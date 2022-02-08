@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi, dear 👋, I'm Wilkertt Duarte !!! </h1>
-<h3 align = "center"> Brasileiro, formado em Administração, MBA em Controle Interno e Externo da Administração Pública. Atualmente em processo de transição de carreira para Programação e Ciência de Dados </h3>
+<h3 align = "center"> Brasileiro, formado em Administração, MBA em Controle Interno e Externo da Administração Pública. Atualmente em processo de transição de carreira para Desenvolvimento Web </h3>
 
 - 🌱 Atualmente estou aprendendo ** Revisando os pilares do HTML, CSS e JS **
 
